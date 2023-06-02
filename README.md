@@ -68,7 +68,10 @@ Test set: Average loss: 0.0671, Accuracy: 9781/10000 (97.81%)
 2. pip 22 or higher
 ```
 
-It's recommended to use virtualenv so that there's no conflict of package versions if there are multiple projects configured on a single system. Read more about [virtualenv](https://virtualenv.pypa.io/en/latest/). Once virtualenv is activated (or not opted otherwise), install required packages using following command. 
+It's recommended to use virtualenv so that there's no conflict of package versions if there are multiple projects configured on a single system. 
+Read more about [virtualenv](https://virtualenv.pypa.io/en/latest/). 
+
+Once virtualenv is activated (or otherwise not opted), install required packages using following command. 
 
 ```
 pip install requirements.txt
@@ -90,14 +93,15 @@ To access the notebook, open this file in a browser:
 ```
 
 Open the above link in your favourite browser, a page similar to below shall be loaded.
-![Jupyter server index page](/assets/images/ss1_s5erav1.png)
+
+![Jupyter server index page](./assets/images/ss1_s5erav1.png)
 
 - Click on the notebook link.
 
 A page similar to below shall be loaded. Make sure, it shows *trusted* in top bar. 
 If it's not _trusted_, click on *Trust* button and add to the trusted files.
 
-![Jupyter notebook page](/assets/images/ss2_s5erav1.png)
+![Jupyter notebook page](./assets/images/ss2_s5erav1.png)
 
 Now, the notebook can be operated from the action panel.
 

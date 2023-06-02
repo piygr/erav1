@@ -97,7 +97,7 @@ Open the above link in your favourite browser, a page similar to below shall be 
 A page similar to below shall be loaded. Make sure, it shows *trusted* in top bar. 
 If it's not _trusted_, click on *Trust* button and add to the trusted files.
 
-![Jupyter notebook page](/assets/images/ss1_s5erav2.png)
+![Jupyter notebook page](/assets/images/ss2_s5erav1.png)
 
 Now, the notebook can be operated from the action panel.
 
